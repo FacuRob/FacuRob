@@ -4,7 +4,7 @@
 
 <!--Start Intro-->
 <p align="left">
-Soy desarrollador con formación en programación y experiencia en soporte técnico, atención al cliente y creación de sistemas reales para empresas. Actualmente estoy aprendiendo y practicando Ciberseguridad (TryHackMe), desarrollando sistemas como un sitio web de Bar (Bar Pintas), mientras profundizo mis habilidades en React, Node.js, NestJS y bases de datos.
+Soy desarrollador con formación en programación y experiencia en soporte técnico, atención al cliente y manego de herramientas Corporativas. Actualmente estoy aprendiendo y practicando Ciberseguridad (TryHackMe), desarrollando sistemas como DevTree (Clon de LinkTree) y la página de BarPintas, mientras profundizo mis habilidades en React, Node.js, NestJS y bases de datos.
 </p>
 
 - 🎯 Buscando mi primer trabajo en IT.
