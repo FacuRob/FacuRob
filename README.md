@@ -28,7 +28,7 @@ Soy desarrollador con formación en programación y experiencia en soporte técn
 <!--Languages and Tools Section-->
 <h2 align="center">🛠 Tecnologías y Herramientas</h2>
 <p align="center">
-<img width="500px" src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,nestjs,mysql,mongo,py,kali,linux,git,vscode,postman&perline=9" />
+<img width="500px" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vite,tailwind,nodejs,express,npm,ts,mysql,mongo,py,kali,linux,windows,git,github,vscode,visualstudio,postman,netlify,aws&perline=8" />
 </p>
 
 ---
