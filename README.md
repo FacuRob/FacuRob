@@ -74,7 +74,7 @@ Soy desarrollador con formación en programación y experiencia en soporte técn
  <a href="https://www.linkedin.com/in/frobles-dev/" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
- <a href="mailto:facundorobles7@gmail.com" target="_blank">
+ <a href="mailto:facurob.dev@gmail.com" target="_blank">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>
  <a href="https://tryhackme.com/p/roblesfacundo7" target="_blank">
