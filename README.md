@@ -34,10 +34,14 @@ Soy desarrollador con formación en programación y experiencia en soporte técn
 ---
 
 <!--Trophies Section-->
-<h2 align="center">🏆 Trofeos GitHub 🏆</h2>
-<p align="center">
+<h2 align="center">🏆 Trofeos de TryHackMe 🏆</h2>
+<!--<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=facundorobles&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
+</p>-->
+<div align="center">
+   <a target="_blank" href="https://tryhackme.com/roblesfacundo7/badges/terminaled"><img title="cat linux.txt" alt="TryHackMe badge 2" src="https://assets.tryhackme.com/img/badges/linux.svg" width="100"></a>
+   <a target="_blank" href="https://tryhackme.com/roblesfacundo7/badges/security-awareness"><img title="Security Awareness" alt="TryHackMe badge 3" src="https://tryhackme.com/img/badges/securityawareness.svg"       width="100"></a>
+   <a target="_blank" href="https://tryhackme.com/roblesfacundo7/badges/web-fund"><img title="cat linux.txt" alt="TryHackMe badge 2" src="https://tryhackme.com/img/badges/webbed.svg" width="100"></a>
 
 ---
 
