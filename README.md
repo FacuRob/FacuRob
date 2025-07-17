@@ -26,10 +26,20 @@ Soy desarrollador con formación en programación y experiencia en soporte técn
 ---
 
 <!--Languages and Tools Section-->
-<h2 align="center">🛠 Tecnologías y Herramientas</h2>
+<h2 align="center">🛠 Tecnologías y Herramientas 🛠</h2>
 <p align="center">
 <img width="500px" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vite,tailwind,nodejs,express,npm,ts,mysql,mongo,py,kali,linux,windows,git,github,vscode,visualstudio,postman,netlify,aws&perline=8" />
 </p>
+
+---
+
+<!--Profile Section-->
+<h2 align="center">🙎‍♂️ Perfil TryHackMe 🙎‍♂️</h2>
+<div align="center">
+  <a href="https://tryhackme.com/p/roblesfacundo7" target="_blank">
+      <img src="https://tryhackme-badges.s3.amazonaws.com/roblesfacundo7.png" alt="Your Image Badge" />
+  </a>
+</div>
 
 ---
 
@@ -46,7 +56,7 @@ Soy desarrollador con formación en programación y experiencia en soporte técn
 ---
 
 <!--Github Stats Table-->
-<h2 align="center">📊 Estadísticas de GitHub</h2>
+<h2 align="center">📊 Estadísticas de GitHub 📊</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=facundorobles&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
